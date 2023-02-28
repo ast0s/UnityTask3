@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ceccc087114c8cb42bd984ff685f151e
+  m_SerializeEntries:
+  - m_GUID: 69d8f05fda8421849a84b27b8c0d773d
+    m_Address: VFX/CFXR4 Sword Trail ICE (360 Spiral).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99bc28c0d45f51c4fbac01080b73edc7
+    m_Address: VFX/CFXR3 Fire Explosion B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dfebfd50077945f4fa506cb6e9c1771b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c414dfcb90690743a6af15dfffc3fbd, type: 2}
+    - {fileID: 11400000, guid: 81b977bfc3c03f2418d523de1302e115, type: 2}
